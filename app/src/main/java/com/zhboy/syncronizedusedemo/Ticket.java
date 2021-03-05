@@ -3,7 +3,7 @@ package com.zhboy.syncronizedusedemo;
 /**
  * @author: zhou_hao
  * @date: 2021/3/4
- * @description:
+ * @description: 测试synchronized修饰普通方法（对象锁）
  **/
 public class Ticket implements Runnable {
     private  int ticket = 10;
